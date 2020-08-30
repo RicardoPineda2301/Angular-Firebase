@@ -1,6 +1,6 @@
 # Django-Firebase
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/imagemes/firebase.png)
 
 Proyecto desarrollado en Django, cuya finalidad es conectarse a una base de datos basada en Firebase.
 
