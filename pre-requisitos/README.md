@@ -9,3 +9,11 @@
 ```
 npm install -g @augular/cli
 ```
+
+## Errores Comunes
+
+- **WINDOWS** Si salta el error '.ps1 cannot be loaded because the execution of scripts is disabled on this system', abra una terminal de PoweShell en modo administrador, y coloque el siguiente comando:
+
+```
+Set-ExecutionPolicy Unrestricted
+```
