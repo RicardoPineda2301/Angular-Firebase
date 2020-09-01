@@ -6,7 +6,7 @@
 
 2. Abra una terminal, y escriba el siguiente comando:
 
-'''
+```
 
 npm install -g @augular/cli
-'''
+```
