@@ -18,26 +18,28 @@ Puede encontrar la documentación completa de AngularFire [aquí](https://github
 
 Este proyecto fué generado con: [Angular CLI](https://github.com/angular/angular-cli) versión 10.0.8.
 
-### Development server
+### Servidor de desarrollo
 
 Corra `ng serve` para arrancar el servidor. En el browser ponga:  `http://localhost:4200/`. La aplicación se actualiza automaticamente al efectuar cambios en el código.
 
-### Code scaffolding
+### Componentes
 
-Corra `ng generate component component-name` para generar un nuevo componente. También puede usar: `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Corra `ng generate component component-name` para generar un nuevo componente. También puede usar: 
 
-### Build
+`ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+### Construcción
 
 Corra `ng build` para armar el proyecto. Los artefactos serán guardados en: `dist/` . Use la bandera: `--prod` para indicar una construcción de producción.
 
-### Running unit tests
+### Pruebas de unidad
 
 Corra `ng test` para efectuar pruebas vía [Karma](https://karma-runner.github.io).
 
-### Running end-to-end tests
+### Pruebas end-to-end
 
 Corra `ng e2e` para efectuar pruebas end-to-end vía [Protractor](http://www.protractortest.org/).
 
-### Further help
+### Más información y Documentación
 
 Para más información, ponga: `ng help` o visite la documentación: [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
