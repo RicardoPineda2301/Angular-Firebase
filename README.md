@@ -1,6 +1,6 @@
 # Django-Firebase
 
-![Firebase](/imagenes/firebase.png) ![Angular](/imagenes/Angular.png)
+![Firebase](/imagenes/firebase.png) ![Angular](/imagenes/Angular1.png)
 
 Proyecto desarrollado en Angular, cuya finalidad es conectarse a una base de datos basada en Firebase.
 
@@ -18,6 +18,6 @@ La decisión de utilizar Angular se tomó por ser un framework versatil, con fac
 
 ### AngularFire
 
-Puede encontrar la documentación completa de AngularFire ![aquí](https://github.com/angular/angularfire)
+Puede encontrar la documentación completa de AngularFire [aquí](https://github.com/angular/angularfire)
 
 
