@@ -1,10 +1,18 @@
 # Pre-requisitos
 
-## Instalación de Angular
+## Instalación
 
-1. Lo primero que necesita es tener instalado Node.js. Si no lo tiene, puede hacerlo desde [aqui](https://nodejs.org/es/download/)
+### Node JS
 
-2. Abra una terminal, y escriba el siguiente comando:
+Lo primero que necesita es tener instalado Node.js. Si no lo tiene, puede hacerlo desde [aqui](https://nodejs.org/es/download/)
+
+### Git
+
+Para instalar git, puede dirigirse a este sitio: [link](https://git-scm.com/download/win)
+
+### Angular
+
+Cree una carpeta específica para el proyect, abra una terminal, dirigase hacia esa carpeta y escriba el siguiente comando:
 
 ```
 npm install -g @augular/cli
