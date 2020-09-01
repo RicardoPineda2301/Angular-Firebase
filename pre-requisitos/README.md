@@ -12,7 +12,7 @@ Para instalar git, puede dirigirse a este sitio: [link](https://git-scm.com/down
 
 ### Angular
 
-Cree una carpeta específica para el proyect, abra una terminal, dirigase hacia esa carpeta y escriba el siguiente comando:
+Abra una terminal y escriba el siguiente comando:
 
 ```
 npm install -g @augular/cli
