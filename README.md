@@ -1,6 +1,6 @@
 # Django-Firebase
 
-![Firebase](/imagenes/firebase.png) ![Angular](/imagenes/ngular_full_color_logo.svg.png)
+![Firebase](/imagenes/firebase.png) ![Angular](/imagenes/Angular.png)
 
 Proyecto desarrollado en Angular, cuya finalidad es conectarse a una base de datos basada en Firebase.
 
