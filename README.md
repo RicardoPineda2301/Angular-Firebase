@@ -1,8 +1,8 @@
 # Django-Firebase
 
-![Firebase](/imagenes/firebase.png) ![Django](/imagenes/django.png)
+![Firebase](/imagenes/firebase.png) ![Angular](/imagenes/ngular_full_color_logo.svg.png)
 
-Proyecto desarrollado en Django, cuya finalidad es conectarse a una base de datos basada en Firebase.
+Proyecto desarrollado en Angular, cuya finalidad es conectarse a una base de datos basada en Firebase.
 
 La funcionalidad del proyecto incluye, pero no se limita a:
 
@@ -11,4 +11,13 @@ La funcionalidad del proyecto incluye, pero no se limita a:
 - Una funcion de log-in basada en roles.
 
 - Una interfaz gráfica para poder crear, modificar, eliminar o simplemente leer objetos de la base de datos, según el rol del usuario.
+
+## Framework
+
+La decisión de utilizar Angular se tomó por ser un framework versatil, con facilidad de conexión con Firebase via AngularFire
+
+### AngularFire
+
+Puede encontrar la documentación completa de AngularFire ![aquí](https://github.com/angular/angularfire)
+
 
