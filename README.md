@@ -16,28 +16,28 @@ Puede encontrar la documentación completa de AngularFire [aquí](https://github
 
 ### FirebaseAuth
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
+Este proyecto fué generado con: [Angular CLI](https://github.com/angular/angular-cli) versión 10.0.8.
 
 ### Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Corra `ng serve` para arrancar el servidor. En el browser ponga:  `http://localhost:4200/`. La aplicación se actualiza automaticamente al efectuar cambios en el código.
 
 ### Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Corra `ng generate component component-name` para generar un nuevo componente. También puede usar: `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ### Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Corra `ng build` para armar el proyecto. Los artefactos serán guardados en: `dist/` . Use la bandera: `--prod` para indicar una construcción de producción.
 
 ### Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Corra `ng test` para efectuar pruebas vía [Karma](https://karma-runner.github.io).
 
 ### Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Corra `ng e2e` para efectuar pruebas end-to-end vía [Protractor](http://www.protractortest.org/).
 
 ### Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Para más información, ponga: `ng help` o visite la documentación: [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
