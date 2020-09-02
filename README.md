@@ -1,4 +1,7 @@
 # Angular-Firebase
+Angular             |  Firebase 		
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+![alt text](https://upload.wikimedia.org/wikipedia/en/1/18/NEM_%28cryptocurrency%29_logo.svg) |   ![Apostille](https://rhizomebrain.net/wp-content/uploads/2017/07/OpenApostille_yoko.png)
 
 Proyecto desarrollado en Angular, cuya finalidad es conectarse a una base de datos basada en Firebase.
 
