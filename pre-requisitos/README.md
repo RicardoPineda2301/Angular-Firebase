@@ -20,7 +20,7 @@ npm install -g @augular/cli
 
 ### Angular-fire
 
-Para instalar angularfire, recomiendo hacerlo localmente. Para ello abra una terminal y escriba:
+Para instalar angularfire, recomiendo hacerlo localmente. Para ello abra una terminal en el directorio de su proyecto y escriba:
 
 ```
 npm install --save firebase @angular/fire
