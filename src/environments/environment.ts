@@ -5,7 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-   // Su llave API de Firebase va aqui   
+    apiKey: "AIzaSyCxl6uSZioMvqWG-0y1kSffG3bDvLieEFw",
+    authDomain: "fir-auth-50b1d.firebaseapp.com",
+    databaseURL: "https://fir-auth-50b1d.firebaseio.com",
+    projectId: "fir-auth-50b1d",
+    storageBucket: "fir-auth-50b1d.appspot.com",
+    messagingSenderId: "1095273939746",
+    appId: "1:1095273939746:web:4403aeb9e54696d814db7b"
   }
 };
 
