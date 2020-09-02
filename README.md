@@ -1,6 +1,6 @@
 # Angular-Firebase
 Angular             |  Firebase 		
-:-------------------------:|:-------------------------:|:-------------------------:|
+:-------------------------:|:-------------------------:|:-------------------------:|:
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) |   ![Firebase](https://firebase.google.cn/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419) |  ![Bootstrap](https://www.troopsf.com/file/bootstrap-logo.png)
 
 Proyecto desarrollado en Angular, cuya finalidad es conectarse a una base de datos basada en Firebase.
