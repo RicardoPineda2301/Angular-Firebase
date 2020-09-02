@@ -1,7 +1,7 @@
 # Angular-Firebase
 Angular             |  Firebase 		
 :-------------------------:|:-------------------------:|
-![alt text](https://frontendlabepam.github.io/FL5/angular/assets/img/angular-js-logo.png) |   ![Apostille](https://rhizomebrain.net/wp-content/uploads/2017/07/OpenApostille_yoko.png)
+![alt text](https://frontendlabepam.github.io/FL5/angular/assets/img/angular-js-logo.png) |   ![Firebase](https://img1.freepng.es/20180417/irq/kisspng-firebase-cloud-messaging-computer-icons-google-clo-github-5ad5d3cde70706.9853526815239628299463.jpg)
 
 Proyecto desarrollado en Angular, cuya finalidad es conectarse a una base de datos basada en Firebase.
 
