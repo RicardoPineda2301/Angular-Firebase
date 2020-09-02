@@ -1,7 +1,7 @@
 # Angular-Firebase
 Angular             |  Firebase 		
-:-------------------------:|:-------------------------:|
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) |   ![Firebase](https://firebase.google.cn/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419)
+:-------------------------:|:-------------------------:|:-------------------------:|
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) |   ![Firebase](https://firebase.google.cn/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419) |  ![Bootstrap](https://www.troopsf.com/file/bootstrap-logo.png)
 
 Proyecto desarrollado en Angular, cuya finalidad es conectarse a una base de datos basada en Firebase.
 
@@ -12,6 +12,8 @@ La funcionalidad del proyecto incluye, pero no se limita a:
 - Una funcion de log-in basada en roles.
 
 - Una interfaz gráfica para poder crear, modificar, eliminar o simplemente leer objetos de la base de datos, según el rol del usuario.
+
+  - El CSS del proyecto estará integrado con bootstrap.
 
 ### AngularFire
 
