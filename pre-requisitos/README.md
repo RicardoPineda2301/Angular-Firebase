@@ -15,7 +15,7 @@ Para instalar git, puede dirigirse a este sitio: [link](https://git-scm.com/down
 Abra una terminal y escriba el siguiente comando:
 
 ```
-npm install -g @augular/cli
+npm install -g @angular/cli
 ```
 
 ### Angular-fire
