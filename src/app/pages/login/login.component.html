@@ -5,10 +5,10 @@
             <form (ngSubmit)="login()" >
             <h3>Login:</h3>
             <div class = "form-group p-2">
-                <input type="email" name="login" class="from-control" [(ngModel)]="email" placeholder="Email:" required>
+                <input type="email" name="email" class="from-control" [(ngModel)]="email" placeholder="Email:" required>
             </div>
             <div class = "form-group p-2">
-                <input type="password" name="login" class="from-control" [(ngModel)]="password" placeholder="Contraseña:" required> 
+                <input type="password" name="password" class="from-control" [(ngModel)]="password" placeholder="Contraseña:" required> 
             </div>
             <div class = "form-group p-2">
                 <button type = "submit" class = "btn btn-primary">Log In</button>
