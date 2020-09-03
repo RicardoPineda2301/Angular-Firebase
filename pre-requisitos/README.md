@@ -26,6 +26,13 @@ Para instalar angularfire, recomiendo hacerlo localmente. Para ello abra una ter
 npm install --save firebase @angular/fire
 ```
 
+### Servicio de Autenticación
+
+Para instalar golablmente el servicio de autenticación, abra una termian y escriba: 
+```
+ng g s services/auth
+```
+
 ## Errores Comunes
 
 - **WINDOWS** Si salta el error '.ps1 cannot be loaded because the execution of scripts is disabled on this system', abra una terminal de PoweShell en modo administrador, y coloque el siguiente comando:
