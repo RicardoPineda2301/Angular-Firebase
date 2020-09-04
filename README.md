@@ -17,7 +17,7 @@ La funcionalidad del proyecto incluye, pero no se limita a:
   
 ### Pre-requisitos
 
-Es importante que antes de hacer los siguientes cambios, cumpla con los [pre-requisitos](https://github.com/RicardoPineda2301/Angular-Firebase/tree/master/pre-requisitos)
+Es importante que antes de hacer los siguientes pasos, cumpla con los [pre-requisitos](https://github.com/RicardoPineda2301/Angular-Firebase/tree/master/pre-requisitos)
 
 ### AngularFire
 
