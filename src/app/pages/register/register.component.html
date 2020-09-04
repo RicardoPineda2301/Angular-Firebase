@@ -1,19 +1,30 @@
 <div class="container">
     <div class = "row justify-content-center p-4">
         <div class = "col-md-6">
-            <h3>Firebase Register:</h3>
+            <h3>Registrar Usuario:</h3>
+            <form (ngSubmit)="register()">
             <div class = "form-group p-2">
-                <input type="text" name="login" class="from-control" placeholder="Enter Username:">
+                <input type="email" name="email" class="from-control" [(ngModel)]="email" placeholder="Usuario:" required>
             </div>
             <div class = "form-group p-2">
-                <input type="password" name="login" class="from-control" placeholder="Enter Password:">
+                <input type="password" name="password" class="from-control"[(ngModel)]="password" placeholder="Contraseña:" required>
             </div>
             <div class = "form-group p-2">
-                <button type = "submit" class = "btn btn-primary">Register</button>
+                <button type = "submit" class = "btn btn-primary">Registrar</button>
                 <div class = "form-group p-2">
-                    <a href = "a" routerLink = "/login">Back to Log In</a>
+                    <a href = "a" routerLink = "/login">Regresar a Log In</a>
                 </div>
             </div>
+        </form>
+        <div class="form/group">
+            <p *ngIf="errorMessage.length > 0" class ="text-danger">
+                {{errorMessage}}
+            </p>
+    
+            <p *ngIf = "error.message.length > 0" class = "text-danger">
+                {{error.message}}
+            </p>
+        </div>
         </div>
 
     </div>

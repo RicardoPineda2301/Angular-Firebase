@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import {FormsModule} from '@angular/forms';
 
 // Import firebase module
 import {AngularFireModule } from '@angular/fire';
@@ -24,6 +25,7 @@ import { UserinfoComponent } from './pages/userinfo/userinfo.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    FormsModule,
     AngularFireModule.initializeApp(environment.firebase),
     AngularFireDatabaseModule
   ],
