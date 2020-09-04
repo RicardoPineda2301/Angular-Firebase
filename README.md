@@ -14,6 +14,10 @@ La funcionalidad del proyecto incluye, pero no se limita a:
 - Una interfaz gráfica para poder crear, modificar, eliminar o simplemente leer objetos de la base de datos, según el rol del usuario.
 
   - El CSS del proyecto estará integrado con bootstrap.
+  
+### Pre-requisitos
+
+Es importante que antes de hacer los siguientes pasos, cumpla con los [pre-requisitos](https://github.com/RicardoPineda2301/Angular-Firebase/tree/master/pre-requisitos)
 
 ### AngularFire
 
